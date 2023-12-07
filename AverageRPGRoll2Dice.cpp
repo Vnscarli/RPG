@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+//This code calculates the average value for a 2 dice roll
 float mediaDados(int lados){
     int qtlados=lados;
     int mult=1;
